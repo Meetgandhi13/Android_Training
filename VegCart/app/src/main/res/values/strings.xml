@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VegCart</string>
+    <string name="shop_you_favourite_and_fresh_vegetables_here">Shop you Favourite and Fresh Vegetables here...</string>
+    <string name="name_string">Shop your favourite and fresh vegetables here</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
